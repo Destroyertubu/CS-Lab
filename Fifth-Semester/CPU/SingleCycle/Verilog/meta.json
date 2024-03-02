@@ -1,0 +1,8 @@
+{
+    "compiler": "iverilog",
+    "test_file": "mips_tb.v",
+    "data_path": "DataMemory.sv",
+    "code_path": "InstructionMemory.sv",
+    "data_file_path": "data.txt",
+    "code_file_path": "D:\\CPU\\mips\\new_tester\\pipeline-tester-py\\code.txt"
+}
